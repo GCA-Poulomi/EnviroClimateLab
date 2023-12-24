@@ -1,13 +1,14 @@
 # EnviroClimateLab
 EnviroClimateLab is an open-source repository dedicated to fostering a deeper understanding of environmental and climate data through effective visualization and assessment tools.
 
-[**Tool 1: CarbonFootprintCalculator**](https://github.com/GCA-Poulomi/EnviroClimateLab/blob/main/Life%20Cycle%20Assessment%20Tools/CarbonFootprintCalculator.py)
-
+[**Tool 1: CarbonFootprintCalculator**](https://github.com/GCA-Poulomi/EnviroClimateLab/blob/main/Life%20Cycle%20Assessment%20Tools/CarbonFootprintCalculator.py) 
 **Purpose:** To calculate the total carbon footprint of various activities or products based on their energy consumption or material use.
 
 **Description:** This tool takes input data like energy usage (e.g., electricity, gasoline) and material usage (e.g., steel, plastic), and calculates the total CO2 emissions based on emission factors.
 
-**Explanation:** The script uses a dictionary of emission factors for different materials and energy sources. It multiplies these factors by the usage amounts to calculate the footprint. The results are visualized using a bar chart, providing a clear view of emissions by material or energy source.
+**Explanation:** The script uses a dictionary of emission factors for different materials and energy sources. It multiplies these factors by the usage amounts to calculate the footprint. The results are visualized using a bar chart, providing a clear view of emissions by material or energy source.![carbonfootprint](https://github.com/GCA-Poulomi/EnviroClimateLab/assets/154719208/1812f421-6d99-483a-9799-e8a9b839445d)
+
+
 
 [**Tool 2: MaterialImpactAnalyzer**](https://github.com/GCA-Poulomi/EnviroClimateLab/blob/main/Life%20Cycle%20Assessment%20Tools/MaterialImpactAnalyzer.py)
 
