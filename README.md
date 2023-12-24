@@ -1,7 +1,7 @@
 # EnviroClimateLab
 EnviroClimateLab is an open-source repository dedicated to fostering a deeper understanding of environmental and climate data through effective visualization and assessment tools.
 
-**Tool 1: CarbonFootprintCalculator**
+[**Tool 1: CarbonFootprintCalculator**](https://github.com/GCA-Poulomi/EnviroClimateLab/blob/main/Life%20Cycle%20Assessment%20Tools/CarbonFootprintCalculator.py)
 
 **Purpose:** To calculate the total carbon footprint of various activities or products based on their energy consumption or material use.
 
