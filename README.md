@@ -1,4 +1,4 @@
-![Lifecyclecosts](https://github.com/GCA-Poulomi/EnviroClimateLab/assets/154719208/356a8abd-053d-4570-b7b6-6f9496a3368b)# EnviroClimateLab
+# EnviroClimateLab
 EnviroClimateLab is an open-source repository dedicated to fostering a deeper understanding of environmental and climate data through effective visualization and assessment tools.
 
 [**Tool 1: CarbonFootprintCalculator**](https://github.com/GCA-Poulomi/EnviroClimateLab/blob/main/Life%20Cycle%20Assessment%20Tools/CarbonFootprintCalculator.py) 
