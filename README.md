@@ -26,16 +26,25 @@ EnviroClimateLab is an open-source repository dedicated to fostering a deeper un
 **Explanation:** The script uses input data on water usage per unit of material or product. It computes basic statistical measures for the dataset and uses a bar chart to visualize the water usage, facilitating easy comparison among different materials or products.
 
 **Tool 4: TransportEmissionsCalculator**
+
 **Purpose:** To calculate and visualize the emissions from different modes of transportation over specified distances.
+
 **Description:** This script is used to assess the environmental impact of transportation by calculating CO2 emissions based on distance traveled and transportation mode.
+
 **Explanation:** The tool takes input data on distance traveled and mode of transport, applies emission factors for each mode, and calculates total emissions. The emissions for each transport mode are then visualized using a bar chart.
 
 **Tool 5: LifeCycleCostingTool**
+
 **Purpose:** To calculate the total cost incurred throughout the lifecycle of a product, including production, operation, maintenance, and disposal.
+
 **Description:** This script provides a comprehensive financial assessment of a product's lifecycle, aiding in budgeting and cost management.
+
 **Explanation:** The tool compiles various cost components over the product's lifespan, including initial production costs, operational and maintenance expenses, and end-of-life disposal costs. The total and individual costs are visualized in a bar chart.
 
 **Tool 6: EcoIndicatorAssessment**
+
 **Purpose:** To evaluate and compare various environmental indicators for different products or categories.
+
 **Description:** This tool is used to visualize the environmental impact of products across multiple ecological indicators, such as global warming potential, ozone depletion, and water usage.
+
 **Explanation:** The script uses a dataset containing values for various environmental indicators across different products or categories. It presents this data in a heatmap format, providing a comparative view of environmental impacts across different indicators.
